@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Open Sans";
+  src: url("@/assets/fonts/open-sans-v40-latin-regular.woff2");
+}
+
+@font-face {
+  font-family: "Kaisei Decol";
+  src: url("@/assets/fonts/kaisei-decol-v8-latin-regular.woff2");
+}
+
+// Fonts
+$font-open-sans: "Open Sans", sans-serif;
+$font-kaisei-decol: "Kaisei Decol", serif;
+
+// Colors
+$white: #fff;
+$white-80: #ffffffcc;
+
+$black-3: #f0f0f5;
+$black-5: #f5f5f5;
+$black-10: #e8e8e9;
+$black-20: #d0d0d3;
+$black-30: #b9b9bd;
+$black-40: #a1a2a7;
+$black-50: #8a8a91;
+$black-60: #73737c;
+$black-70: #5b5c66;
+$black-80: #444550;
+$black-90: #2c2d3a;
+$black-100: #151624;
+$black: #000;
+
+$honey-100: #f7efa4;
+$honey-600: #f4d741;
+
+$mint-10: #e7fbf4;
+$mint-30: #b8f4de;
+$mint-50: #88edc8;
+$mint-80: #41e3a7;
+$mint-100: #11dc91;
+$mint-darker: #09bb79;
+$mint-darkest: #029c63;
+
+$tangerine-600: #f39f3c;
+
+$lavender-100: #d3ccfc;
+$lavender-600: #9891e9;
+
+$red-050: #f5c2b7;
+
+$error: #d63f2b;

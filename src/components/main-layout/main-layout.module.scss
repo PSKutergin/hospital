@@ -1,0 +1,36 @@
+.layout {
+  height: 100vh;
+
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+
+    .logo {
+      width: min(100%, 120px);
+      height: 32px;
+      background: #ffffff33;
+      border-radius: 6px;
+    }
+
+    .menu {
+      flex: 1;
+    }
+  }
+
+  .content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 48px;
+    background: $black-5;
+
+    .container {
+      min-height: 100%;
+      padding: 24px;
+      background: $white;
+      border-radius: 8px;
+    }
+  }
+}

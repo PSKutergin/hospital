@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "firstName": "Иван",
+        "lastName": "Иванов",
+        "patronymic": "Иванович",
+        "department": "Кардиологическое",
+        "isHead": true
+    },
+    {
+        "id": 2,
+        "firstName": "Петр",
+        "lastName": "Петров",
+        "patronymic": "Петрович",
+        "department": "Хирургическое",
+        "isHead": false
+    },
+    {
+        "id": 3,
+        "firstName": "Сидор",
+        "lastName": "Сидоров",
+        "patronymic": "Сидорович",
+        "department": "Кардиологическое",
+        "isHead": false
+    },
+    {
+        "id": 4,
+        "firstName": "Кузнецов",
+        "lastName": "Кузнецов",
+        "patronymic": "Кузнецович",
+        "department": "Хирургическое",
+        "isHead": false
+    },
+    {
+        "id": 5,
+        "firstName": "Михаил",
+        "lastName": "Михайлов",
+        "patronymic": "Михайлович",
+        "department": "Кардиологическое",
+        "isHead": false
+    },
+    {
+        "id": 6,
+        "firstName": "Алексей",
+        "lastName": "Александров",
+        "patronymic": "Александрович",
+        "department": "Кардиологическое",
+        "isHead": false
+    },
+    {
+        "id": 7,
+        "firstName": "Виктор",
+        "lastName": "Викторов",
+        "patronymic": "Викторович",
+        "department": "Хирургическое",
+        "isHead": true
+    },
+    {
+        "id": 8,
+        "firstName": "Игорь",
+        "lastName": "Игорев",
+        "patronymic": "Игоревич",
+        "department": "Кардиологическое",
+        "isHead": false
+    }
+]

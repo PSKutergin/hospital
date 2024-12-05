@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "firstName": "Анна",
+        "lastName": "Петрова",
+        "patronymic": "Александровна",
+        "department": "Кардиологическое"
+    },
+    {
+        "id": 2,
+        "firstName": "Мария",
+        "lastName": "Сидорова",
+        "patronymic": "Ивановна",
+        "department": "Хирургическое"
+    },
+    {
+        "id": 3,
+        "firstName": "Ольга",
+        "lastName": "Кузнецова",
+        "patronymic": "Михайловна",
+        "department": "Кардиологическое"
+    },
+    {
+        "id": 4,
+        "firstName": "Елена",
+        "lastName": "Шмидт",
+        "patronymic": "Фёдоровна",
+        "department": "Хирургическое"
+    },
+    {
+        "id": 5,
+        "firstName": "Юлия",
+        "lastName": "Лукина",
+        "patronymic": "Сергеевна",
+        "department": "Кардиологическое"
+    },
+    {
+        "id": 6,
+        "firstName": "Ирина",
+        "lastName": "Горбунова",
+        "patronymic": "Петровна",
+        "department": "Хирургическое"
+    },
+    {
+        "id": 7,
+        "firstName": "Светлана",
+        "lastName": "Романова",
+        "patronymic": "Дмитриевна",
+        "department": "Кардиологическое"
+    },
+    {
+        "id": 8,
+        "firstName": "Татьяна",
+        "lastName": "Михайлова",
+        "patronymic": "Анатольевна",
+        "department": "Хирургическое"
+    },
+    {
+        "id": 9,
+        "firstName": "Ксения",
+        "lastName": "Попова",
+        "patronymic": "Вячеславовна",
+        "department": "Кардиологическое"
+    },
+    {
+        "id": 10,
+        "firstName": "Наталья",
+        "lastName": "Захарова",
+        "patronymic": "Павловна",
+        "department": "Хирургическое"
+    }
+]
